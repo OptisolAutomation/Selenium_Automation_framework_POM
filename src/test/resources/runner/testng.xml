@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object Model with Page Factories">
+
+	<listeners>
+
+		<listener class-name="com.erp.listeners.CustomListeners" />
+		<listener
+			class-name="com.erp.errorcollectors.TestListenerAdapter" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+
+	</listeners>
+
+	<test name="Sign In Test">
+		<classes>
+			<class name="com.erp.testcases.SignInTest" />
+		</classes>
+	</test>
+	<test name="My Profile Test">
+		<classes>
+			<class name="com.erp.testcases.MyProfileTest" />
+		</classes>
+	</test>
+	<test name="Leave Apply Test">
+		<classes>
+			<class name="com.erp.testcases.LeaveApplyTest" />
+		</classes>
+	</test>
+	<test name="CompOff Apply Test">
+		<classes>
+			<class name="com.erp.testcases.CompOffApplyTest" />
+		</classes>
+	</test>
+	<test name="Holiday List Test">
+		<classes>
+			<class name="com.erp.testcases.HolidayListTest" />
+		</classes>
+	</test>
+	<test name="Policies Page Test">
+		<classes>
+			<class name="com.erp.testcases.PoliciesPageTest" />
+		</classes>
+	</test>
+    <test name="Form12BB Page Test">
+		<classes>
+			<class name="com.erp.testcases.Form12BBTest" />
+		</classes>
+	</test> 
+</suite> <!-- Suite -->

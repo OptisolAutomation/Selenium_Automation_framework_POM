@@ -1,0 +1,59 @@
+17/04/2020 16:59:09 devpinoyLogger Launching Chrome
+17/04/2020 16:59:15 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (02ed26667204fbc1683b48f676625a42)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 16:59:15 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (02ed26667204fbc1683b48f676625a42)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 16:59:27 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 16:59:52 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17/04/2020 16:59:58 devpinoyLogger Launching Chrome
+17/04/2020 17:00:06 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 17:00:06 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 17:00:22 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 17:00:22 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> xpath: //div[contains(text(),'Personal Info')]]
+17/04/2020 17:00:22 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> xpath: //div[contains(text(),'Contact Info')]]
+17/04/2020 17:00:22 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> xpath: //div[contains(text(),'Profile Info')]]
+17/04/2020 17:00:33 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17/04/2020 17:00:39 devpinoyLogger Launching Chrome
+17/04/2020 17:00:45 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 17:00:45 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 17:00:57 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 17:00:57 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> xpath: //*[contains(text(),'Leave Apply')]]
+17/04/2020 17:00:57 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> xpath: .//div[normalize-space(text())='Leave Type']//following-sibling::div//select]
+17/04/2020 17:00:57 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: div >select>option:nth-child(3)]
+17/04/2020 17:00:57 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: #leave-date-from]
+17/04/2020 17:01:09 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17/04/2020 17:01:15 devpinoyLogger Launching Chrome
+17/04/2020 17:01:20 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b560e9b02371c09c9fe8aada08d32973)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 17:01:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b560e9b02371c09c9fe8aada08d32973)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 17:01:32 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 17:01:43 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17/04/2020 17:01:49 devpinoyLogger Launching Chrome
+17/04/2020 17:01:55 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 17:01:55 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 17:02:07 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 17:02:07 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> xpath: //*[contains(text(),'Compoff Apply')]]
+17/04/2020 17:02:07 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> css selector: #from-date-comp]
+17/04/2020 17:02:19 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17/04/2020 17:02:25 devpinoyLogger Launching Chrome
+17/04/2020 17:02:30 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (7fd41b77c5f060564d32a3cd977b42c0)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 17:02:31 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (7fd41b77c5f060564d32a3cd977b42c0)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 17:02:42 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 17:02:42 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (7fd41b77c5f060564d32a3cd977b42c0)] -> xpath: //*[contains(text(),'Holidays List')]]
+17/04/2020 17:02:56 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //div[contains(text(),'back')]'
+17/04/2020 17:03:17 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17/04/2020 17:03:23 devpinoyLogger Launching Chrome
+17/04/2020 17:03:28 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 17:03:29 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 17:03:40 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 17:03:40 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> xpath: //*[contains(text(),'Policies')]]
+17/04/2020 17:03:43 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> xpath: //div[@class='s t wc hc'][contains(text(),'Download')]]
+17/04/2020 17:03:54 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17/04/2020 17:04:00 devpinoyLogger Launching Chrome
+17/04/2020 17:04:06 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17/04/2020 17:04:06 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> css selector: #password] entered value as : Ani@revit20
+17/04/2020 17:04:17 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17/04/2020 17:04:17 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //*[contains(text(),'Form - 12BB')]]
+17/04/2020 17:04:30 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //div[contains(text(),'List View')]'
+17/04/2020 17:04:44 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //div[contains(text(),'Approved')]]
+17/04/2020 17:04:47 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //div[contains(text(),'Applied')]]
+17/04/2020 17:04:50 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //div[contains(text(),'Rejected')]]
+17/04/2020 17:05:03 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath:  //div[contains(text(),'back')]'
+17/04/2020 17:05:24 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'

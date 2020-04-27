@@ -1,0 +1,99 @@
+16:59:09,830 DEBUG devpinoyLogger:70 - Launching Chrome
+16:59:15,477 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (02ed26667204fbc1683b48f676625a42)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+16:59:15,644 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (02ed26667204fbc1683b48f676625a42)] -> css selector: #password] entered value as : Ani@revit20
+16:59:27,510 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+16:59:40,807 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:59:40,808 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:59:40,809 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:40,810 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:40,810 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:52,048 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+16:59:58,015 DEBUG devpinoyLogger:70 - Launching Chrome
+17:00:06,049 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17:00:06,170 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> css selector: #password] entered value as : Ani@revit20
+17:00:22,602 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17:00:22,692 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> xpath: //div[contains(text(),'Personal Info')]]
+17:00:22,783 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> xpath: //div[contains(text(),'Contact Info')]]
+17:00:22,865 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (493e25f3764af32be66cd6f37354d334)] -> xpath: //div[contains(text(),'Profile Info')]]
+17:00:22,911 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:00:22,911 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:00:22,911 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:00:22,912 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:00:22,912 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:00:33,912 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17:00:39,876 DEBUG devpinoyLogger:70 - Launching Chrome
+17:00:45,596 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17:00:45,766 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: #password] entered value as : Ani@revit20
+17:00:57,383 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17:00:57,502 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> xpath: //*[contains(text(),'Leave Apply')]]
+17:00:57,737 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> xpath: .//div[normalize-space(text())='Leave Type']//following-sibling::div//select]
+17:00:57,806 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: div >select>option:nth-child(3)]
+17:00:57,955 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (42196325fcc8b6da70034a1d4e2399bb)] -> css selector: #leave-date-from]
+17:00:58,387 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:00:58,387 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:00:58,387 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:00:58,388 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:00:58,388 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:01:09,290 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17:01:15,239 DEBUG devpinoyLogger:70 - Launching Chrome
+17:01:20,930 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b560e9b02371c09c9fe8aada08d32973)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17:01:21,046 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (b560e9b02371c09c9fe8aada08d32973)] -> css selector: #password] entered value as : Ani@revit20
+17:01:32,712 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17:01:32,713 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:01:32,713 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:01:32,713 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:01:32,714 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:01:32,714 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:01:43,780 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17:01:49,731 DEBUG devpinoyLogger:70 - Launching Chrome
+17:01:55,436 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17:01:55,589 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> css selector: #password] entered value as : Ani@revit20
+17:02:07,371 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17:02:07,500 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> xpath: //*[contains(text(),'Compoff Apply')]]
+17:02:07,832 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (f1e0aa1b92fd21ae0568906e877e4a45)] -> css selector: #from-date-comp]
+17:02:08,268 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:02:08,268 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:02:08,269 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:02:08,269 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:02:08,269 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:02:19,255 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17:02:25,249 DEBUG devpinoyLogger:70 - Launching Chrome
+17:02:30,919 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (7fd41b77c5f060564d32a3cd977b42c0)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17:02:31,045 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (7fd41b77c5f060564d32a3cd977b42c0)] -> css selector: #password] entered value as : Ani@revit20
+17:02:42,501 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17:02:42,635 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (7fd41b77c5f060564d32a3cd977b42c0)] -> xpath: //*[contains(text(),'Holidays List')]]
+17:02:56,436 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //div[contains(text(),'back')]'
+17:03:06,671 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:03:06,671 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:03:06,671 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:03:06,672 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:03:06,672 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:03:17,468 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17:03:23,331 DEBUG devpinoyLogger:70 - Launching Chrome
+17:03:28,900 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17:03:29,015 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> css selector: #password] entered value as : Ani@revit20
+17:03:40,270 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17:03:40,360 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> xpath: //*[contains(text(),'Policies')]]
+17:03:43,443 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (357959f0ac37376ee55d085cf4b79c48)] -> xpath: //div[@class='s t wc hc'][contains(text(),'Download')]]
+17:03:43,453 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:03:43,454 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:03:43,454 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:03:43,454 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:03:43,455 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:03:54,422 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
+17:04:00,373 DEBUG devpinoyLogger:70 - Launching Chrome
+17:04:06,000 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> css selector: #login] entered value as : Anitha.Selvakumar@revolutionit.com.au
+17:04:06,128 DEBUG devpinoyLogger:101 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> css selector: #password] entered value as : Ani@revit20
+17:04:17,611 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //button[@type='submit']'
+17:04:17,701 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //*[contains(text(),'Form - 12BB')]]
+17:04:30,992 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //div[contains(text(),'List View')]'
+17:04:44,261 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //div[contains(text(),'Approved')]]
+17:04:47,330 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //div[contains(text(),'Applied')]]
+17:04:50,427 DEBUG devpinoyLogger:93 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (4908c19d8b696605821a1173d50aa025)] -> xpath: //div[contains(text(),'Rejected')]]
+17:05:03,800 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath:  //div[contains(text(),'back')]'
+17:05:14,055 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:05:14,055 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:05:14,056 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:05:14,056 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:05:14,056 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/anitha.selvakumar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:05:24,917 DEBUG devpinoyLogger:93 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.cssSelector: u.s:nth-child(4) > a:nth-child(1) > div:nth-child(1) > s:nth-child(1) > div:nth-child(1) > svg:nth-child(1)'
